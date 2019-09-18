@@ -1,9 +1,13 @@
+# bOnline Interview Test
+
+## The data
 The file sales.json contains a list of dictionaries, each dictionary contains
 these keys:
 - date
 - amount (pennies)
 - agent
 
+## The task
 Your task is to write script that prints out a table showing the total value of
 each agent's sales per month using only the python standard library like this:
 
