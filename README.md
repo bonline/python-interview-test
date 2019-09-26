@@ -9,7 +9,7 @@ these keys:
 
 ## The task
 Your task is to write script that prints out a table showing the total value of
-each agent's sales per month using only the python standard library like this:
+each agent's sales per month **using only the python standard library** like this:
 
 ```
 Agent   Jan Sales  Jan Total    Feb Sales  Feb Total    Mar Sales  Mar Total
