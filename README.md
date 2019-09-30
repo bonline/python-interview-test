@@ -16,4 +16,5 @@ Agent   Jan Sales  Jan Total    Feb Sales  Feb Total    Mar Sales  Mar Total
 Andy         30     4,100.00         25     5,199.25         32       250.32
 Belinda      50    10,125.33         15       100.00         27     1.250.67
 ```
+You should expect that the code will be tested with different data to that provided, including other months and sales people.
 This should take a maximum of 45 minutes to an hour.
